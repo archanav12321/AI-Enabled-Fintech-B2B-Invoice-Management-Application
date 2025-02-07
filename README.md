@@ -37,9 +37,9 @@ This project is a **cloud-based B2B invoice management platform** that leverages
 ---
 
 ## ⚡ Installation & Setup
-### 1️⃣ Clone the Repository
-### 2️⃣ Install Dependencies 
-### 3️⃣ Run the Application
+#### 1️⃣ Clone the Repository
+#### 2️⃣ Install Dependencies 
+#### 3️⃣ Run the Application
 
 
 ## 📊 AI & Machine Learning Features
@@ -49,6 +49,7 @@ This project is a **cloud-based B2B invoice management platform** that leverages
 🔹 Fraud Detection: AI models detect suspicious transactions using anomaly detection
 🔹 Predictive Analytics: Uses historical data for forecasting cash flow & revenue
 ---
+
 ## 🔗 API Endpoints
 | Method | Endpoint | Description |
 |--------|---------|-------------|
