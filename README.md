@@ -39,20 +39,19 @@ This project is a **cloud-based B2B invoice management platform** that leverages
 ## ⚡ Installation & Setup
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/AI-Fintech-Invoice-Management.git
+git clone https://github.com/archanav12321/AI-Fintech-Invoice-Management.git
 cd AI-Fintech-Invoice-Management
----
+
 ### 2️⃣ Install Dependencies
 #### Backend
 ```sh
 cd backend
 pip install -r requirements.txt
 
----
 ┣ 📂Frontend
 **cd frontend**
 **npm install**
----### 3️⃣ Run the Application
+### 3️⃣ Run the Application
 
  **Start Backend**
 **python app.py**
