@@ -53,12 +53,12 @@ cd AI-Fintech-Invoice-Management
 ### **Start Backend**
 **python app.py**
 **npm start**
-
+---
 ##📊 AI & Machine Learning Features
 🔹 Optical Character Recognition (OCR): Extracts text from invoices using OpenCV & Tesseract
 🔹 Fraud Detection: AI models detect suspicious transactions using anomaly detection
 🔹 Predictive Analytics: Uses historical data for forecasting cash flow & revenue
-
+---
 ##🔗 API Endpoints
 Method	Endpoint	Description
 POST	/api/upload-invoice	Upload an invoice for processing
