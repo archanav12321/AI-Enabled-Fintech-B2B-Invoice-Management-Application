@@ -37,12 +37,12 @@ This project is a **cloud-based B2B invoice management platform** that leverages
 ---
 
 ## ⚡ Installation & Setup
-### **1️⃣ Clone the Repository**
+### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/yourusername/AI-Fintech-Invoice-Management.git
 cd AI-Fintech-Invoice-Management
 ---
-### **2️⃣ Install Dependencies**
+### 2️⃣ Install Dependencies
 ┣ 📂Backend
 **cd backend**
 **pip install -r requirements.txt**
@@ -51,11 +51,12 @@ cd AI-Fintech-Invoice-Management
 **cd frontend**
 **npm install**
 ---
-3️⃣ Run the Application
-### **Start Backend**
+###3️⃣ Run the Application
+ **Start Backend**
 **python app.py**
 **npm start**
 ---
+
 ##📊 AI & Machine Learning Features
 🔹 Optical Character Recognition (OCR): Extracts text from invoices using OpenCV & Tesseract
 🔹 Fraud Detection: AI models detect suspicious transactions using anomaly detection
