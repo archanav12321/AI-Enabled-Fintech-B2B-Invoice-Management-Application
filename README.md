@@ -42,7 +42,7 @@ This project is a **cloud-based B2B invoice management platform** that leverages
 git clone https://github.com/archanav12321/AI-Fintech-Invoice-Management.git
 cd AI-Fintech-Invoice-Management
 
-### 2️⃣ Install Dependencies
+### 1️⃣ Clone the Repository
 #### Backend
 ```sh
 cd backend
