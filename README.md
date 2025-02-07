@@ -43,30 +43,34 @@ git clone https://github.com/yourusername/AI-Fintech-Invoice-Management.git
 cd AI-Fintech-Invoice-Management
 ---
 ### 2️⃣ Install Dependencies
-┣ 📂Backend
-**cd backend**
-**pip install -r requirements.txt**
+#### Backend
+```sh
+cd backend
+pip install -r requirements.txt
+
 ---
 ┣ 📂Frontend
 **cd frontend**
 **npm install**
----
-###3️⃣ Run the Application
+---### 3️⃣ Run the Application
+
  **Start Backend**
 **python app.py**
 **npm start**
 ---
+## 📊 AI & Machine Learning Features
 
-##📊 AI & Machine Learning Features
 🔹 Optical Character Recognition (OCR): Extracts text from invoices using OpenCV & Tesseract
 🔹 Fraud Detection: AI models detect suspicious transactions using anomaly detection
 🔹 Predictive Analytics: Uses historical data for forecasting cash flow & revenue
 ---
-##🔗 API Endpoints
-Method	Endpoint	Description
-POST	/api/upload-invoice	Upload an invoice for processing
-GET	/api/invoices	Retrieve all invoices
-POST	/api/analyze-invoice	AI-based fraud detection
-GET	/api/predict-revenue	Predict future revenue
+## 🔗 API Endpoints
+| Method | Endpoint | Description |
+|--------|---------|-------------|
+| `POST` | `/api/upload-invoice` | Upload an invoice for processing |
+| `GET`  | `/api/invoices` | Retrieve all invoices |
+| `POST` | `/api/analyze-invoice` | AI-based fraud detection |
+| `GET`  | `/api/predict-revenue` | Predict future revenue |
+
 
 
